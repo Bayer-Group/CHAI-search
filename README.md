@@ -1,5 +1,5 @@
-# CHAI Search
-CHAI-Search can be used for retrosynthetic searches with the DFPN* algorithm. The search algorithm needs a reaction prediction and reaction filter model to work as intended. Which type of model is used is completely customizable and only has to follow template-based approach, see retrosynthetic search tools like:
+# bayer-retrosynthesis-search
+bayer-retrosynthesis-search can be used for retrosynthetic searches with the DFPN* algorithm. The search algorithm needs a reaction prediction and reaction filter model to work as intended. Which type of model is used is completely customizable and only has to follow template-based approach, see retrosynthetic search tools like:
 - Genheden S, Thakkar A, Chadimova V, et al (2020) AiZynthFinder: a fast, robust and flexible open-source software for retrosynthetic planning. ChemRxiv. Preprint. https://doi.org/10.26434/chemrxiv.12465371.v1.
 - Segler MH, Preuss M, and Waller MP (2018) Planning Chemical Syntheses with deep neural networks and symbolic AI, Nature, 555(7698), doi:10.1038/nature25978.
 
