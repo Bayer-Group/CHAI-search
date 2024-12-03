@@ -26,6 +26,7 @@ python main.py -t 60 -i input.smi
 ## Contributors
 - [Florian Mrugalla](https://github.com/FloMru) 
 - [Yannic Alber](https://github.com/YannicAlber)
+- [Christopher Franz](https://github.com/cfrnz)
 
 ## License
 See license file
